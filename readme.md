@@ -30,5 +30,5 @@ Here are some packages I use with my template That I set to public, useful for a
 
 
 Docs
-[What is Electron?] (https://github.com/Am3nd/My-Electron-Work/blob/master/docs/what_is_electron.pdf)
+[What is Electron?] (https://github.com/Am3nd/My-Electron-Work/blob/master/docs/What_is_Electron.pdf)
 source(Electron JS)
