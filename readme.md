@@ -27,3 +27,8 @@ Here is a template I made that is firebase ready and uses sqlite3 for a local da
 Here are some packages I use with my template That I set to public, useful for accessing sqlite3 and my custom logger
 
 #### My KD Packages (https://github.com/Am3nd/KD-Packages)
+
+
+Docs
+[What is Electron?] (https://github.com/Am3nd/My-Electron-Work/blob/master/docs/what_is_electron.pdf)
+source(Electron JS)
